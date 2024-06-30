@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>  I am a B.tech graduate in electronics and communication engineering from Sahrdaya College of Engineering and Technology, Thrissur.I am interested in vlsi design, design. Excited to learn more about these fields.
 
 
 ## Portfolio Highlights
